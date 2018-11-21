@@ -1,0 +1,42 @@
+{
+    "author": "尹彬 <1052921694@qq.cn>",
+    "description": "交通巡检软件解决方案",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "青岛前途软件-临时官网": "http://www.yinbin.ink"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "viilea-life"
+        }
+    },
+    "title": "交通巡检软件解决方案",
+    "variables": {}
+}
