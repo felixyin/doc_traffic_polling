@@ -1,6 +1,6 @@
 {
     "author": "尹彬 <1052921694@qq.cn>",
-    "description": "交通巡检软件解决方案",
+    "description": "交通巡检平台解决方案",
     "extension": null,
     "generator": "site",
     "isbn": "",
@@ -13,7 +13,7 @@
             "weibo": null
         },
         "sidebar": {
-            "青岛前途软件技术-临时官网": "http://www.yinbin.ink"
+            "下载PDF版本": "http://docs.yinbin.ink/traffic_polling/解决方案.pdf"
         }
     },
     "output": null,
@@ -31,12 +31,13 @@
         "paperSize": "a4"
     },
     "plugins": [
+        "-sharing"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "viilea-life"
         }
     },
-    "title": "交通巡检软件解决方案",
+    "title": "交通巡检平台解决方案",
     "variables": {}
 }
