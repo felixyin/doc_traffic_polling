@@ -7,7 +7,7 @@
 
 
 ### 如何打印文档？
-1. 点击左侧菜单拦中的[”下载PDF版本“](http://docs.yinbin.ink/traffic_polling/解决方案.pdf)
+1. 点击左侧菜单拦中的”下载PDF版本“
 2. 打开pdf后，点击做上角的打印按钮
 
 > 手机上查看PDF版本，请先下拉页面，然后点击击文档正文区域做上角图标来展开菜单<i class="fa fa-align-justify"/>
