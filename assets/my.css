@@ -1,0 +1,4 @@
+.summary>li:last-child,.divider{display:none}
+.book-header { position: fixed; width: 80%;}
+.book-header .btn {background-color: white;}
+.page-wrapper { padding-top: 50px;}

@@ -31,12 +31,17 @@
         "paperSize": "a4"
     },
     "plugins": [
+        "custom-js-css",
         "-sharing"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "viilea-life"
-        }
+        "custom-js-css": {
+            "js": [
+            ],
+            "css": [
+              "./assets/my.css"
+            ]
+          }
     },
     "title": "交通巡检平台解决方案",
     "variables": {}
